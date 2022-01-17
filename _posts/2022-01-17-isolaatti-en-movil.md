@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Isolaatti en móvil"
-date: 2021-08-22 03:10:00 -0500
+date: 2022-01-17 01:10:00 -0500
 categories: novedades desarrollo
 ---
 
