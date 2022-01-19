@@ -29,7 +29,7 @@ twitter_username: ErikEverardo1
 github_username:  erik-everardo
 
 # Build settings
-remote_theme: oinam/oinam-jekyll
+remote_theme: BDHU/minimalist
 plugins:
   - jekyll-feed
 
