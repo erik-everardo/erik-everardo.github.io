@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Novedades de Isolaatti en la web"
-date: 2021-08-22 03:10:00 -0500
+date: 2022-02-04 03:10:00 -0500
 categories: novedades desarrollo
 ---
 
