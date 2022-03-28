@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Porqué reviviré lo primero que era Isolaatti"
+title: "Reviviré lo primero que era Isolaatti. Isolaatti Demixer"
 date: 2022-02-04 08:50:00 -0500
 categories: desarrollo
 ---
@@ -95,3 +95,15 @@ Este proyecto no sería posible sin el modelo Demucs, así como su implementaci�
 Documento de estudio de Demucs:  
 * https://hal.archives-ouvertes.fr/hal-02379796/document
 * Repositorio de código con el código de la implementación de Demucs: https://github.com/facebookresearch/demuc
+
+# El nuevo Isolaatti Demixer
+Ya me encuentro creando la aplicación web exclusiva para esta funcionalidad, y también diseñando la arquitectura del sistema.
+Solo adelanto que se hará uso de Docker para desplegar demucs y para la aplicación web usaré Go y el framework Buffalo, además de Vue.js.
+
+Isolaatti demixer estará conectado con la aplicación principal Isolaatti, por lo que habrá que crearse una cuenta en Isolaatti para poder usar el servicio.
+
+## Mejoras
+El diseño anterior era pesimo, y no visualmente, sino internamente. La forma en que creé los modelos de la base de datos no era la mejor
+definitivamente. Ahora, serán posibles más cosas, como acceder a una sola pista, buscar por artista, album, etc. Además, las canciones estarán disponibles para todos,
+por lo que ya no siempre será necesario subir un archivo para obtener las pistas instrumentales, pues podría ya existir de otro usuario.
+
