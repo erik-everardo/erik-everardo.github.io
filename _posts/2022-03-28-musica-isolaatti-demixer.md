@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reviviré lo primero que era Isolaatti. Isolaatti Demixer"
-date: 2022-02-04 08:50:00 -0500
+date: 2022-03-28 01:10:00 -0500
 categories: desarrollo
 ---
 # Introducción
