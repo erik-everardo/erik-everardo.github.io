@@ -8,8 +8,7 @@ categories: ayuda
 Para poder transmitir video a una estación de transmisión de Isolaatti se recomienda utilizar OBS Studio, que es de los mejores programas para tal proposito.
 
 ## Instalar OBS Studio
-Ve a https://obsproject.com/es/download
-
+Ve a [https://obsproject.com/es/download](https://obsproject.com/es/download)
 ## Configurar
 Una vez que lo tengas configurado, ve a Ajustes
 ![Captura de pantalla 2024-02-17 104928](https://github.com/erik-everardo/erik-everardo.github.io/assets/43968631/4c56696d-461c-4f12-bb14-27d55d5afb2a)
