@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guía para transmitir a Isolaatti con OBS Studio"
-date: 2024-02-17 21:00:00 -0600
+date: 2024-02-17 11:00:00 -0600
 categories: ayuda
 ---
 
