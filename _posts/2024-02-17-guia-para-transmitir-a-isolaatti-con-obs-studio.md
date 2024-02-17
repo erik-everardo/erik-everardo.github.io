@@ -21,6 +21,7 @@ Después, ve a "Emisión", selecciona servicio personalizado, e introduce los da
 ![image](https://github.com/erik-everardo/erik-everardo.github.io/assets/43968631/4bd1d56d-46f2-4a51-9026-6f73caf34010)
 
 Introduce los datos de acuerdo con la siguiente tabla:
+
 |App   |OBS Studio          |
 |------|--------------------|
 |Url   |Servidor            |
